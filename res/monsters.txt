@@ -1,0 +1,22 @@
+Goblin
+Orc
+Wendigo
+Frost Dragon
+Fire Dragon
+Wind Dragon
+Behemoth
+Bahaumet
+Air Elemental
+Basilisk
+Chimera
+Dire Wolf
+Earth Elemental
+Troll
+Fire Elemental
+Ghost
+Gargoyle
+Hydra
+Imp
+Demon
+Vampire
+Zombie
